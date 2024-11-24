@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fotogaléria</title>
+    <link rel="stylesheet" type="text/css" href="CSS/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Fotogaléria</a></li>
+                <li><a href="map.html">Mapa</a></li>
+            </ul>
+        </nav>
+    </header>
+    <h2>Fotogaléria</h2>
+    <input type="text" id="filterInput" placeholder="Filter">
+    <div id="gallery"></div>
+    <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="fullImage" src="JSON/metadata.json" alt="">
+        <div class="image-info">
+            <h3 id="imageTitle"></h3>
+            <p id="imageDescription"></p>
+            <div id="imageDateLocation">
+                <p id="imageDate"></p>
+                <p id="imageLatitude"></p>
+                <p id="imageLongitude"></p>
+            </div>
+        </div>
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        <button id="slideshowButton">Spustiť Slideshow</button>
+    </div>
+
+    <script src="JS/form.js"></script>
+</body>
+</html>

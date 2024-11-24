@@ -1,0 +1,94 @@
+{ "photos":
+  [
+    {
+      "filename": "1_Eurovea.jpg",
+      "title": "Eurovea",
+      "description": "nákupné centrum",
+      "date": "2023-9-9",
+      "latitude": "48.1405",
+      "longitude": "17.1213",
+      "path": "PHOTOS/1_Eurovea.jpg"
+    },
+    {
+      "filename": "2_Most_SNP.jpg",
+      "title": "Most SNP",
+      "description": "postavený na Dunaji",
+      "date": "2023-9-9",
+      "latitude": "48.1384",
+      "longitude": "17.1045",
+      "path": "PHOTOS/2_Most_SNP.jpg"
+    },
+    {
+      "filename": "3_Nivy.jpg",
+      "title": "Nivy",
+      "description": "Okolie nákupného centra",
+      "date": "2023-9-9",
+      "latitude": "48.1461",
+      "longitude": "17.1271",
+      "path": "PHOTOS/3_Nivy.jpg"
+    },
+    {
+      "filename": "4_Tehelne_pole.jpg",
+      "title": "Tehelné pole",
+      "description": "exteriér štadiónu",
+      "date": "2023-9-8",
+      "latitude": "48.1631",
+      "longitude": "17.1382",
+      "path": "PHOTOS/4_Tehelne_pole.jpg"
+    },
+    {
+      "filename": "5_Tehelne_pole.jpg",
+      "title": "Tehelné pole",
+      "description": "interiér štadiónu",
+      "date": "2023-9-8",
+      "latitude": "48.1631",
+      "longitude": "17.1382",
+      "path": "PHOTOS/5_Tehelne_pole.jpg"
+    },
+    {
+      "filename": "6_Tehelne_pole.jpg",
+      "title": "Tehelné pole",
+      "description": "Ronaldo žltá",
+      "date": "2023-9-8",
+      "latitude": "48.1631",
+      "longitude": "17.1382",
+      "path": "PHOTOS/6_Tehelne_pole.jpg"
+    },
+    {
+      "filename": "7_SND.jpg",
+      "title": "SND",
+      "description": "nachádza sa v starom meste",
+      "date": "2023-12-16",
+      "latitude": "48.1423",
+      "longitude": "17.1099",
+      "path": "PHOTOS/7_SND.jpg"
+    },
+    {
+      "filename": "8_Refinery_gallery.jpg",
+      "title": "Refinery Gallery",
+      "description": "miesto pre spoločenské akcie",
+      "date": "2023-10-17",
+      "latitude": "48.1276",
+      "longitude": "17.1799",
+      "path": "PHOTOS/8_Refinery_gallery.jpg"
+    },
+    {
+      "filename": "9_Telocvicna.jpg",
+      "title": "Telocvičňa",
+      "description": "nachádza sa na Šturáku",
+      "date": "2023-11-13",
+      "latitude": "48.1604",
+      "longitude": "17.0666",
+      "path": "PHOTOS/9_Telocvina.jpg"
+    },
+    {
+      "filename": "10_Mlyny.jpg",
+      "title": "Mlyny",
+      "description": "študenstká oblasť",
+      "date": "2023-4-6",
+      "latitude": "48.1586",
+      "longitude": "17.0686",
+      "path": "PHOTOS/10_Mlyny.jpg"
+    }
+  ]
+}
